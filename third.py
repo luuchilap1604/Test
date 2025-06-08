@@ -1,2 +1,2 @@
 print("Third")
-print("Another third the another route")
+print("Main third the main route")
